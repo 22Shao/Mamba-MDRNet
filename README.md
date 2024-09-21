@@ -4,10 +4,6 @@
 
 (1) Prepare for ImageNet dataset:
 
-
----
-
-
 ```markdown
 /path/to/imagenet
 ├── images
