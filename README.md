@@ -1,6 +1,6 @@
-Multimodal Natural Disaster Scene Recognition with Integrated Large Model and Mamba
+# Multimodal Natural Disaster Scene Recognition with Integrated Large Model and Mamba
 
-Data Preparation
+## Data Preparation
 
 (1) Prepare for ImageNet dataset:
 
@@ -30,6 +30,6 @@ Please describe the content of this picture in detail
 Use pictures to judge natural phenomena. There are eleven picture categories: hail, snow, earthquake, rain, food, wildfre, hurri-cane, lightning, sandstorm, frost, andhaze.
 
 
-(3)Train Mamba-MDRNet with EffcientNet
+## Train Mamba-MDRNet with EffcientNet
 
 run Mamba-MDRNet.ipynb
