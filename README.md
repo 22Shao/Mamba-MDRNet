@@ -7,8 +7,8 @@
 
 ---
 
-### 实际应用
 
+```markdown
 /path/to/imagenet
 ├── images
 │   ├── class1
@@ -17,7 +17,7 @@
 │   │   └── img2.jpeg
 
 
-```markdown
+
 
 
 (2)Prepare for text ansd probabilities used for training
