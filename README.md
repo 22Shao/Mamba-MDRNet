@@ -4,17 +4,20 @@
 
 (1) Prepare for ImageNet dataset:
 
+
+---
+
+### 实际应用
+
 /path/to/imagenet
-├── train
+├── images
 │   ├── class1
 │   │   └── img1.jpeg
 │   ├── class2
 │   │   └── img2.jpeg
-├── val
-│   ├── class1
-│   │   └── img3.jpeg
-│   ├── class2
-│   │   └── img4.jpeg
+
+
+```markdown
 
 
 (2)Prepare for text ansd probabilities used for training
